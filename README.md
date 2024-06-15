@@ -4,7 +4,7 @@ This code is for web scraping using AWS lambda
 ## Getting Started
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/jdash1/aws_lambda_web_scraper.git
+git clone https://github.com/jdash1/webscrape.git
 ```
 nevigate to the below directory
 ```bash
