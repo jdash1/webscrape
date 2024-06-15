@@ -4,7 +4,7 @@ This code is for web scraping using AWS lambda
 ## Getting Started
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/abhishek-bhattacharjee-job/aws_lambda_web_scraper.git
+git clone https://github.com/jdash1/aws_lambda_web_scraper.git
 ```
 nevigate to the below directory
 ```bash
@@ -16,7 +16,3 @@ pip install -r requirements.txt -t .
 ```
 Then zip the directory - python and upload that to aws lambda layer
 
-## Related Youtube videos
-```bash
-https://www.youtube.com/watch?v=Jjnr5Fu24b0&list=PLLeyTsu8BpD_zgFKIUsy2EOo1B2rMiAvd
-```
