@@ -6,9 +6,11 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/jdash1/webscrape.git
 ```
+Extract python.zip file.
+
 nevigate to the below directory
 ```bash
-cd aws_lambda_web_scraper\python\lib\python3.9\site-packages
+cd webscrape\python\lib\python3.9\site-packages
 ```
 install packages into this directory
 ```bash
